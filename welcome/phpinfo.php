@@ -1,0 +1,2 @@
+<?php 
+$age = (int)$age;
